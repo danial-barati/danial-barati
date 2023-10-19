@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danial-barati" alt="danial-barati" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/danial-barati](https://github.com/danial-barati)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/danial-barati)
 
 - 💬 Ask me about **React, Javascript, Bootstrap, Css3, Html5, python**
 
