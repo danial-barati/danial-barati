@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danial-barati&label=Profile%20views&color=0e75b6&style=flat" alt="danial-barati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danial-barati&label=Profile%20views&color=C70039&style=flat" alt="danial-barati" /> </p>
 
 <h1 align="center">Hi 👋, I'm danial barati</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
